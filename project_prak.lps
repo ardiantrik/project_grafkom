@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="12">
+      <Unit0>
+        <Filename Value="project_prak.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="63"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="code_project_prak.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="33" Y="7"/>
+        <FoldState Value=" T3jf045241113r"/>
+        <UsageCount Value="63"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="G:\AREA 51\grafkom _mat\pert 4 mat\unit1.pas"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="49"/>
+        <CursorPos X="3" Y="58"/>
+        <UsageCount Value="7"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="E:\pindahan download\ProjectFix\unit1.pas"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="156"/>
+        <CursorPos X="7" Y="170"/>
+        <UsageCount Value="30"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="D:\KULIAH\SEMESTER 6\PRAKTIKUM\GRAFKOM\projek_praktikum\unit1.pas"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="952"/>
+        <CursorPos X="26" Y="365"/>
+        <UsageCount Value="29"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="E:\lazarus\lcl\include\rasterimage.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="285"/>
+        <CursorPos Y="299"/>
+        <UsageCount Value="7"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="E:\lazarus\lcl\buttons.pp"/>
+        <UnitName Value="Buttons"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="561"/>
+        <CursorPos X="14" Y="423"/>
+        <UsageCount Value="7"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="G:\Responsi_123160035\responsi_source.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="181"/>
+        <CursorPos X="57" Y="193"/>
+        <UsageCount Value="11"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="D:\KULIAH\SEMESTER 6\PRAKTIKUM\GRAFKOM\Lazarus\Project Grafkom Mba Oci\unit2.pas"/>
+        <UnitName Value="Unit2"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="17"/>
+        <UsageCount Value="8"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="D:\KULIAH\SEMESTER 6\PRAKTIKUM\GRAFKOM\Lazarus\Project Grafkom Mba Oci\unit1.pas"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="3" Y="1337"/>
+        <UsageCount Value="19"/>
+        <Loaded Value="True"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="E:\lazarus\lcl\include\fpimagebitmap.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="132"/>
+        <CursorPos Y="141"/>
+        <UsageCount Value="10"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="E:\Back Up flash\back up 30 April 2019\Kuis2_123160035\unit1.pas"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="247"/>
+        <CursorPos X="8" Y="258"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit11>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="code_project_prak.pas"/>
+        <Caret Line="201" Column="3" TopLine="199"/>
+      </Position1>
+      <Position2>
+        <Filename Value="code_project_prak.pas"/>
+        <Caret Line="181" Column="138" TopLine="179"/>
+      </Position2>
+      <Position3>
+        <Filename Value="code_project_prak.pas"/>
+        <Caret Line="167" Column="68" TopLine="149"/>
+      </Position3>
+      <Position4>
+        <Filename Value="code_project_prak.pas"/>
+        <Caret Line="628" Column="24" TopLine="590"/>
+      </Position4>
+      <Position5>
+        <Filename Value="code_project_prak.pas"/>
+        <Caret Line="648" TopLine="638"/>
+      </Position5>
+      <Position6>
+        <Filename Value="code_project_prak.pas"/>
+        <Caret Line="567" Column="16" TopLine="567"/>
+      </Position6>
+      <Position7>
+        <Filename Value="code_project_prak.pas"/>
+        <Caret Line="687" Column="28" TopLine="681"/>
+      </Position7>
+      <Position8>
+        <Filename Value="code_project_prak.pas"/>
+        <Caret Line="632" Column="9" TopLine="609"/>
+      </Position8>
+      <Position9>
+        <Filename Value="code_project_prak.pas"/>
+        <Caret Line="721" Column="42" TopLine="693"/>
+      </Position9>
+      <Position10>
+        <Filename Value="code_project_prak.pas"/>
+        <Caret Line="618" Column="3" TopLine="616"/>
+      </Position10>
+      <Position11>
+        <Filename Value="code_project_prak.pas"/>
+        <Caret Line="313" Column="18" TopLine="295"/>
+      </Position11>
+      <Position12>
+        <Filename Value="code_project_prak.pas"/>
+        <Caret Line="653" Column="4" TopLine="642"/>
+      </Position12>
+      <Position13>
+        <Filename Value="code_project_prak.pas"/>
+        <Caret Line="324" Column="28" TopLine="305"/>
+      </Position13>
+      <Position14>
+        <Filename Value="code_project_prak.pas"/>
+        <Caret Line="255" Column="7" TopLine="240"/>
+      </Position14>
+      <Position15>
+        <Filename Value="code_project_prak.pas"/>
+        <Caret Line="256" Column="7" TopLine="241"/>
+      </Position15>
+      <Position16>
+        <Filename Value="code_project_prak.pas"/>
+        <Caret Line="257" Column="7" TopLine="242"/>
+      </Position16>
+      <Position17>
+        <Filename Value="code_project_prak.pas"/>
+        <Caret Line="547" Column="5" TopLine="545"/>
+      </Position17>
+      <Position18>
+        <Filename Value="code_project_prak.pas"/>
+        <Caret Line="298" Column="7" TopLine="288"/>
+      </Position18>
+      <Position19>
+        <Filename Value="code_project_prak.pas"/>
+        <Caret Line="592" Column="50" TopLine="552"/>
+      </Position19>
+      <Position20>
+        <Filename Value="code_project_prak.pas"/>
+        <Caret Line="484" Column="35" TopLine="475"/>
+      </Position20>
+      <Position21>
+        <Filename Value="code_project_prak.pas"/>
+        <Caret Line="680" Column="41" TopLine="661"/>
+      </Position21>
+      <Position22>
+        <Filename Value="code_project_prak.pas"/>
+        <Caret Line="665" Column="28" TopLine="660"/>
+      </Position22>
+      <Position23>
+        <Filename Value="code_project_prak.pas"/>
+        <Caret Line="153" TopLine="140"/>
+      </Position23>
+      <Position24>
+        <Filename Value="code_project_prak.pas"/>
+        <Caret Line="178" TopLine="152"/>
+      </Position24>
+      <Position25>
+        <Filename Value="code_project_prak.pas"/>
+        <Caret Line="204" TopLine="153"/>
+      </Position25>
+      <Position26>
+        <Filename Value="code_project_prak.pas"/>
+        <Caret Line="237" Column="28" TopLine="231"/>
+      </Position26>
+      <Position27>
+        <Filename Value="code_project_prak.pas"/>
+        <Caret Line="319" Column="28" TopLine="262"/>
+      </Position27>
+      <Position28>
+        <Filename Value="code_project_prak.pas"/>
+        <Caret Line="357" Column="28" TopLine="354"/>
+      </Position28>
+      <Position29>
+        <Filename Value="code_project_prak.pas"/>
+        <Caret Line="900" Column="23" TopLine="883"/>
+      </Position29>
+      <Position30>
+        <Filename Value="code_project_prak.pas"/>
+        <Caret Line="768" Column="28" TopLine="761"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
